@@ -1,0 +1,83 @@
+
+👤 Query:
+Please analyze the sentiment of Iran Khodro (ایران خودرو) in today's news. Follow these steps:
+
+1. Search for recent news about Iran Khodro (ایران خودرو)
+2. For each relevant article or source:
+   - Provide the source URL
+   - Summarize the key points
+   - Rate the sentiment on a scale of 1-10 where:
+     * 1-3: Very Negative
+     * 4-5: Slightly Negative
+     * 6: Neutral
+     * 7-8: Slightly Positive
+     * 9-10: Very Positive
+3. Explain the reasoning behind each sentiment score
+4. Calculate an overall sentiment score based on all sources
+
+Please present your findings in a clear, structured format in English.
+
+🤖 Analysis Results:
+
+
+
+📊 Analysis Statistics:
+   - Total tokens: 2251
+   - Processing time: 0.14s
+
+🤖 Analysis Results:
+**Sentiment Analysis of Iran Khodro in Recent News**
+
+### Sources and Summaries
+
+1. **Automobile Farsi**: "Iran Khodro sales at new prices cancelled"
+   - URL: https://automobilefarsi.com/news/localnews/iran-khodro-sales-at-new-prices-cancelled14040523
+   - Summary: Iran Khodro announced that sales of their vehicles at new prices have been halted due to a ruling from the Regulatory Enforcement Department. Sales will only continue at previous prices.
+
+2. **bne IntelliNews**: "Iran news"
+   - URL: https://www.intellinews.com/iran/
+   - Summary: The article mentions various news items about Iran, including environmental issues and political developments, but does not directly discuss Iran Khodro.
+
+3. **Behzisti.ir**: "Expansion of Cooperation between SWO and Iran Chamber of Commerce"
+   - URL: http://en.behzisti.ir/news/145943/Expansion-of-Cooperation-between-SWO-and-Iran-Chamber-of-Commerce
+   - Summary: The article mentions Iran Khodro in the context of promoting social responsibility, but does not provide specific details about the company.
+
+4. **WardsAuto**: "Automakers recent news"
+   - URL: https://www.wardsauto.com/automakers
+   - Summary: The page contains various news articles about automakers, but does not directly mention Iran Khodro in the visible content.
+
+### Sentiment Analysis
+
+1. **Automobile Farsi**:
+   - Sentiment Score: 4/10 (Slightly Negative)
+   - Reasoning: The news about halting sales at new prices could be seen as negative due to the uncertainty and potential financial implications for the company.
+
+2. **bne IntelliNews**:
+   - Sentiment Score: N/A
+   - Reasoning: The article does not directly mention Iran Khodro, so it's not relevant for the sentiment analysis of the company.
+
+3. **Behzisti.ir**:
+   - Sentiment Score: 7/10 (Slightly Positive)
+   - Reasoning: Mentioning Iran Khodro in the context of promoting social responsibility could be seen as positive, as it highlights the company's involvement in social initiatives.
+
+4. **WardsAuto**:
+   - Sentiment Score: N/A
+   - Reasoning: The page does not directly mention Iran Khodro, making it irrelevant for the sentiment analysis.
+
+### Overall Sentiment Score
+
+To calculate the overall sentiment score, we will only consider the relevant sources:
+
+1. Automobile Farsi: 4/10
+2. Behzisti.ir: 7/10
+
+Average Sentiment Score = (4 + 7) / 2 = 5.5/10
+
+**Overall Sentiment:** Slightly Negative to Neutral
+
+The overall sentiment towards Iran Khodro in the recent news is slightly negative to neutral, driven by the negative news about sales halts and slightly positive mentions of social responsibility initiatives.
+
+
+📊 Analysis Statistics:
+   - Total tokens: 4014
+   - Processing time: 1.29s
